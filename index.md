@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Task one
+- [ ] Task two
+- [ ] Task three
